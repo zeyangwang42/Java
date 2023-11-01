@@ -19,6 +19,7 @@
             * [PowerSum](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/backtracking/PowerSum.java)
             * [WordSearch](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/backtracking/WordSearch.java)
           * bitmanipulation
+            * [BitSwap](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/bitmanipulation/BitSwap.java)
             * [HighestSetBit](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/bitmanipulation/HighestSetBit.java)
             * [IndexOfRightMostSetBit](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/bitmanipulation/IndexOfRightMostSetBit.java)
             * [IsEven](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/bitmanipulation/IsEven.java)
@@ -281,7 +282,9 @@
             * [FFT](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/maths/FFT.java)
             * [FFTBluestein](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/maths/FFTBluestein.java)
             * [FibonacciJavaStreams](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/maths/FibonacciJavaStreams.java)
+            * [FibonacciLoop](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/maths/FibonacciLoop.java)
             * [FibonacciNumberCheck](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/maths/FibonacciNumberCheck.java)
+            * [FibonacciNumberGoldenRation](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/maths/FibonacciNumberGoldenRation.java)
             * [FindKthNumber](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/maths/FindKthNumber.java)
             * [FindMax](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/maths/FindMax.java)
             * [FindMaxRecursion](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/maths/FindMaxRecursion.java)
@@ -307,6 +310,7 @@
             * [LongDivision](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/maths/LongDivision.java)
             * [LucasSeries](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/maths/LucasSeries.java)
             * [MagicSquare](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/maths/MagicSquare.java)
+            * [MatrixRank](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/maths/MatrixRank.java)
             * [MatrixUtil](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/maths/MatrixUtil.java)
             * [MaxValue](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/maths/MaxValue.java)
             * [Means](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/maths/Means.java)
@@ -359,6 +363,7 @@
           * misc
             * [ColorContrastRatio](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/misc/ColorContrastRatio.java)
             * [InverseOfMatrix](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/misc/InverseOfMatrix.java)
+            * [MapReduce](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/misc/MapReduce.java)
             * [matrixTranspose](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/misc/matrixTranspose.java)
             * [MedianOfMatrix](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/misc/MedianOfMatrix.java)
             * [MedianOfRunningArray](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/misc/MedianOfRunningArray.java)
@@ -564,6 +569,7 @@
             * [PowerSumTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/backtracking/PowerSumTest.java)
             * [WordSearchTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/backtracking/WordSearchTest.java)
           * bitmanipulation
+            * [BitSwapTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/bitmanipulation/BitSwapTest.java)
             * [HighestSetBitTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/bitmanipulation/HighestSetBitTest.java)
             * [IndexOfRightMostSetBitTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/bitmanipulation/IndexOfRightMostSetBitTest.java)
             * [IsEvenTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/bitmanipulation/IsEvenTest.java)
@@ -700,7 +706,9 @@
             * [FastInverseSqrtTests](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/maths/FastInverseSqrtTests.java)
             * [FFTTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/maths/FFTTest.java)
             * [FibonacciJavaStreamsTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/maths/FibonacciJavaStreamsTest.java)
+            * [FibonacciLoopTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/maths/FibonacciLoopTest.java)
             * [FibonacciNumberCheckTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/maths/FibonacciNumberCheckTest.java)
+            * [FibonacciNumberGoldenRationTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/maths/FibonacciNumberGoldenRationTest.java)
             * [FindMaxRecursionTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/maths/FindMaxRecursionTest.java)
             * [FindMaxTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/maths/FindMaxTest.java)
             * [FindMinRecursionTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/maths/FindMinRecursionTest.java)
@@ -719,6 +727,7 @@
             * [LiouvilleLambdaFunctionTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/maths/LiouvilleLambdaFunctionTest.java)
             * [LongDivisionTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/maths/LongDivisionTest.java)
             * [LucasSeriesTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/maths/LucasSeriesTest.java)
+            * [MatrixRankTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/maths/MatrixRankTest.java)
             * [MaxValueTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/maths/MaxValueTest.java)
             * [MeansTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/maths/MeansTest.java)
             * [MedianTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/maths/MedianTest.java)
@@ -755,6 +764,7 @@
             * [TwinPrimeTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/maths/TwinPrimeTest.java)
             * [VolumeTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/maths/VolumeTest.java)
           * misc
+            * [MapReduceTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/misc/MapReduceTest.java)
             * [MedianOfMatrixtest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/misc/MedianOfMatrixtest.java)
             * [MedianOfRunningArrayTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/misc/MedianOfRunningArrayTest.java)
             * [MirrorOfMatrixTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/misc/MirrorOfMatrixTest.java)
@@ -763,6 +773,7 @@
           * others
             * [ArrayLeftRotationTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/others/ArrayLeftRotationTest.java)
             * [BestFitCPUTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/others/BestFitCPUTest.java)
+            * [BoyerMooreTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/others/BoyerMooreTest.java)
             * cn
               * [HammingDistanceTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/others/cn/HammingDistanceTest.java)
             * [ConwayTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/others/ConwayTest.java)
@@ -798,6 +809,7 @@
             * [HowManyTimesRotatedTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/searches/HowManyTimesRotatedTest.java)
             * [KMPSearchTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/searches/KMPSearchTest.java)
             * [OrderAgnosticBinarySearchTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/searches/OrderAgnosticBinarySearchTest.java)
+            * [PerfectBinarySearchTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/searches/PerfectBinarySearchTest.java)
             * [QuickSelectTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/searches/QuickSelectTest.java)
             * [RabinKarpAlgorithmTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/searches/RabinKarpAlgorithmTest.java)
             * [RecursiveBinarySearchTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/searches/RecursiveBinarySearchTest.java)
